@@ -17,6 +17,7 @@ GOOGLE_CLIENT_SECRET=<your-google-client-secret>
 BASE_URL=http://localhost:3000
 JWT_SECRET_KEY=<your-jwt-secret-key>
 ```
+Then Replace the existing values
 
 ### Run the Application
 ```
